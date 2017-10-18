@@ -1,0 +1,8 @@
+
+input.ng-invalid.ng-touched {
+  border: 3px dotted rgba(218, 34, 34, 0.63);
+}
+
+input.ng-pending.ng-touched {
+  border: 2px dotted rgba(155, 233, 11, 0.877);
+}
